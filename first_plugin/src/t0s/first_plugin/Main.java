@@ -1,7 +1,7 @@
 package t0s.first_plugin;
 
 /**
- * Created by etas on 10/5/16.
+ * Created by et0s on 10/5/16.
  */
 
 import org.bukkit.plugin.java.JavaPlugin;
