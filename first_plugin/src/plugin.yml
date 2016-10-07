@@ -1,0 +1,8 @@
+name: first_plugin
+version: 1.0
+author: e_t0s
+main: t0s.first_plugin.Main
+commands:
+  list:
+    description: lists all online players
+    usage: /<command>
